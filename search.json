@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to my project website!\nThis website was created as part of the Data Science and Machine Learning course at National Chengchi University.\nVisit the About page to learn more about me."
+  },
+  {
+    "objectID": "index.html#data-science-and-machine-learning",
+    "href": "index.html#data-science-and-machine-learning",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to my project website!\nThis website was created as part of the Data Science and Machine Learning course at National Chengchi University.\nVisit the About page to learn more about me."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My name is Antoine Royer. I am a French student currently studying Finance at Audencia Business School.\nI am spending an exchange semester at National Chengchi University in Taipei, Taiwan.\nI am interested in finance, data science and sports."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "My name is Antoine Royer. I am a French student currently studying Finance at Audencia Business School.\nI am spending an exchange semester at National Chengchi University in Taipei, Taiwan.\nI am interested in finance, data science and sports."
+  },
+  {
+    "objectID": "about.html#about-the-team",
+    "href": "about.html#about-the-team",
+    "title": "About",
+    "section": "About the Team",
+    "text": "About the Team\nI am working individually on this project for the Data Science and Machine Learning course."
+  }
+]
