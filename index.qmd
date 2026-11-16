@@ -1,11 +1,12 @@
 ---
-title: "templateproject"
+title: "Welcome"
 ---
 
-This is a Quarto website.
+## Data Science and Machine Learning
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my project website!
 
-```{r}
-1 + 1
-```
+This website was created as part of the Data Science
+and Machine Learning course at National Chengchi University.
+
+Visit the [About](about.qmd) page to learn more about me.

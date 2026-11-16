@@ -2,8 +2,17 @@
 title: "About"
 ---
 
-About this site
+## About Me
 
-```{r}
-1 + 1
-```
+My name is Antoine Royer. I am a French student
+currently studying Finance at Audencia Business School.
+
+I am spending an exchange semester at National
+Chengchi University in Taipei, Taiwan.
+
+I am interested in finance, data science and sports.
+
+## About the Team
+
+I am working individually on this project for the
+Data Science and Machine Learning course. 
